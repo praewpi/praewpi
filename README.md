@@ -1,8 +1,11 @@
 ## Hi there, I am Ginger! 🫚 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praewpiwiw)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praewpiwiw)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/Gingerrr)
+![Viewercounter](https://komarev.com/ghpvc/?username=Praewpi&style=flat)
 
 💻 Based in Helsinki  
-🎓 MSc in Security and Cloud Computing from Aalto University and EURECOM 🇫🇮🇫🇷
+🎓 MSc in Security and Cloud Computing from Aalto University and EURECOM 🇫🇮🇫🇷  
+🍵 Powered by matcha
 
 ## Tech Stack 
 
@@ -20,21 +23,22 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### IDE 
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-## ⚡ Fun fact:
-Powered by matcha, cats 🐱🍵   
+
+<p align="center">
 learning • building • improving
+</p>
 
-## Stats
-[![Profile View Badge](https://komarev.com/ghpvc/?username=Praewpi&style=for-the-badge&color=blue)]()
+
 
 <!--
+## Stats
 **Praewpi/Praewpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

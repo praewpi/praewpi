@@ -41,7 +41,7 @@ learning • building • improving
 <br>
 🐱 approved
 </p>
-
+<!--
 ![Snake animation](https://github.com/Praewpi/Praewpi/blob/output/github-contribution-grid-snake.svg)
 
 

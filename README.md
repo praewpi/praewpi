@@ -7,7 +7,8 @@
 🎓 MSc in Security and Cloud Computing from Aalto University and EURECOM 🇫🇮🇫🇷  
 🍵 Powered by match (and curiosity)
 
-Not super active publicly before, but more updates are coming . . .
+work in progress . . .
+
 
 ## Tech Stack 
 

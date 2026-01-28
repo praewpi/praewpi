@@ -1,4 +1,5 @@
 ## Hi there, I am Ginger! 🫚 
+[![website](https://img.shields.io/badge/me-gray)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praewpiwiw)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=iwVjkyAAAAAJ&hl=en)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/Gingerrr)

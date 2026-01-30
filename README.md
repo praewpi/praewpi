@@ -7,7 +7,7 @@
 
 💻 Based in Helsinki  
 🎓 MSc in Security and Cloud Computing from Aalto University and EURECOM 🇫🇮🇫🇷  
-🍵 Powered by match (and curiosity)
+🍵 Powered by matcha (and curiosity)
 
 work in progress . . .
 

@@ -51,6 +51,7 @@ learning • building • improving
 <!--
 Snake animation, in actions workflow -> generate datas -> runworkflow
 -->
+<!--
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Praewpi/Praewpi/output/github-contribution-grid-snake-dark.svg" />
@@ -58,7 +59,7 @@ Snake animation, in actions workflow -> generate datas -> runworkflow
   <img alt="github-snake" src="https://raw.githubusercontent.com/Praewpi/Praewpi/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
-
+-->
 
 <!--
 **Praewpi/Praewpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

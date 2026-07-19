@@ -6,10 +6,9 @@
 ![Viewercounter](https://komarev.com/ghpvc/?username=Praewpi&style=flat)
 
 💻 Based in Helsinki  
-🎓 MSc in Security and Cloud Computing from Aalto University and EURECOM 🇫🇮🇫🇷  
+🎓 MSc in Security and Cloud Computing Graduate 🇫🇮🇫🇷  
 🍵 Powered by matcha (and curiosity)
 
-work in progress . . .
 
 
 ## Tech Stack 

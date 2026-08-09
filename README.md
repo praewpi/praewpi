@@ -6,8 +6,8 @@
 ![Viewercounter](https://komarev.com/ghpvc/?username=Praewpi&style=flat)
 
 💻 Based in Helsinki  
-🎓 MSc in Security and Cloud Computing ( Graduated ) 🇫🇮🇫🇷  
-🍵 Powered by matcha (and curiosity)
+🎓 MSc in Security and Cloud Computing - Graduated 🇫🇮🇫🇷  
+🍵 Powered by matcha ( and curiosity )
 
 
 
